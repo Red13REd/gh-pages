@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://red13red.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://red13red.github.io/gh-pages" />
+    <updated>2024-10-07T12:32:01+03:00</updated>
+    <author>
+        <name>ya</name>
+    </author>
+    <id>https://red13red.github.io/gh-pages</id>
+
+    <entry>
+        <title>Мой первый пост</title>
+        <author>
+            <name>ya</name>
+        </author>
+        <link href="https://red13red.github.io/gh-pages/moy-pervyy-post.html"/>
+        <id>https://red13red.github.io/gh-pages/moy-pervyy-post.html</id>
+        <media:content url="https://red13red.github.io/gh-pages/media/posts/1/Screenshot-2023-02-28-102003.png" medium="image" />
+            <category term="Блог"/>
+
+        <updated>2024-10-07T12:32:01+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://red13red.github.io/gh-pages/media/posts/1/Screenshot-2023-02-28-102003.png" alt="" />
+                    Мама привет
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://red13red.github.io/gh-pages/media/posts/1/Screenshot-2023-02-28-102003.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Мама привет
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

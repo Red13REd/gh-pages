@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://red13red.github.io/gh-pages",
+    "feed_url": "https://red13red.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ya"
+    },
+    "items": [
+        {
+            "id": "https://red13red.github.io/gh-pages/moy-pervyy-post.html",
+            "url": "https://red13red.github.io/gh-pages/moy-pervyy-post.html",
+            "title": "Мой первый пост",
+            "summary": "Мама привет",
+            "content_html": "\n  <p>\n    Мама привет\n  </p>",
+            "image": "https://red13red.github.io/gh-pages/media/posts/1/Screenshot-2023-02-28-102003.png",
+            "author": {
+                "name": "ya"
+            },
+            "tags": [
+                   "Блог"
+            ],
+            "date_published": "2024-10-07T12:32:01+03:00",
+            "date_modified": "2024-10-07T12:32:01+03:00"
+        }
+    ]
+}
