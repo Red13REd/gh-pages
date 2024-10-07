@@ -2,17 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "test",
     "description": "",
-    "home_page_url": "https://red13red.github.io/gh-pages",
-    "feed_url": "https://red13red.github.io/gh-pages/feed.json",
+    "home_page_url": "https://red13red.github.io",
+    "feed_url": "https://red13red.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "ya"
     },
     "items": [
         {
-            "id": "https://red13red.github.io/gh-pages/my-new-post.html",
-            "url": "https://red13red.github.io/gh-pages/my-new-post.html",
-            "title": "my new post",
+            "id": "https://red13red.github.io/1.html",
+            "url": "https://red13red.github.io/1.html",
+            "title": "1",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "ya"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-07T13:30:52+03:00",
+            "date_modified": "2024-10-07T13:30:52+03:00"
+        },
+        {
+            "id": "https://red13red.github.io/my-new-post.html",
+            "url": "https://red13red.github.io/my-new-post.html",
+            "title": "2",
             "summary": "HI ",
             "content_html": "<p>HI </p>",
             "author": {
@@ -21,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2024-10-07T13:26:03+03:00",
-            "date_modified": "2024-10-07T13:26:03+03:00"
+            "date_modified": "2024-10-07T13:30:47+03:00"
         }
     ]
 }

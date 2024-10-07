@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://red13red.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://red13red.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://red13red.github.io/gh-pages/</loc>
+<loc>https://red13red.github.io/</loc>
 </url>
 <url>
-<loc>https://red13red.github.io/gh-pages/my-new-post.html</loc>
-<lastmod>2024-10-07T13:26:03+03:00</lastmod>
+<loc>https://red13red.github.io/1.html</loc>
+<lastmod>2024-10-07T13:30:52+03:00</lastmod>
+</url>
+<url>
+<loc>https://red13red.github.io/my-new-post.html</loc>
+<lastmod>2024-10-07T13:30:47+03:00</lastmod>
 </url>
 </urlset>

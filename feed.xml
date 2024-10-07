@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>test</title>
-    <link href="https://red13red.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://red13red.github.io/gh-pages" />
-    <updated>2024-10-07T13:26:03+03:00</updated>
+    <link href="https://red13red.github.io/feed.xml" rel="self" />
+    <link href="https://red13red.github.io" />
+    <updated>2024-10-07T13:30:52+03:00</updated>
     <author>
         <name>ya</name>
     </author>
-    <id>https://red13red.github.io/gh-pages</id>
+    <id>https://red13red.github.io</id>
 
     <entry>
-        <title>my new post</title>
+        <title>1</title>
         <author>
             <name>ya</name>
         </author>
-        <link href="https://red13red.github.io/gh-pages/my-new-post.html"/>
-        <id>https://red13red.github.io/gh-pages/my-new-post.html</id>
+        <link href="https://red13red.github.io/1.html"/>
+        <id>https://red13red.github.io/1.html</id>
+
+        <updated>2024-10-07T13:30:52+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>2</title>
+        <author>
+            <name>ya</name>
+        </author>
+        <link href="https://red13red.github.io/my-new-post.html"/>
+        <id>https://red13red.github.io/my-new-post.html</id>
 
         <updated>2024-10-07T13:26:03+03:00</updated>
             <summary>
